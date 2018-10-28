@@ -1,6 +1,6 @@
 # User Administration Wizard
 
-I am often asked to help resolve Permission issues, especially on implementations that grown over time, and have had several different administrators. I developed a small utility that allows rapid navigation of the Identity hierarchy for a User.
+I am often asked to help resolve Permission issues, especially on implementations that grown over time and have had several different administrators. I developed a small utility that allows rapid navigation of the Identity hierarchy for a User.
 
 1. Import this Package as Root account (required because it adds an Action to the User itemType).
 2. Select a User from the main grid, and right mouse to open the wizard. You can double-click on any node in the Identity hierarchy to open that Identity for modification.
